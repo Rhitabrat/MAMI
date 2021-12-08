@@ -1,0 +1,1 @@
+The baseline codes are adapted from the official repository https://github.com/MIND-Lab/MAMI/blob/main/Baselines/Subtask%20A/Baseline_Text.py.
