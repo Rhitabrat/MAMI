@@ -1,0 +1,11 @@
+Epochs	2			
+Batch Size	32			
+max_length	200			
+				
+	precision	recall	f1-score  	support
+misogynistic	0.75	0.74	0.74	1500
+non-misogynistic 	0.74	0.75	0.75	1500
+				
+accuracy			0.74	3000
+macro avg	0.74	0.74	0.74	3000
+weighted avg	0.74	0.74	0.74	3000
